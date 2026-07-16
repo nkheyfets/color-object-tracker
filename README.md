@@ -4,7 +4,7 @@ A real-time computer vision application built with Python and OpenCV that detect
 
 ## Demo
 
-![Object tracker demo](screenshots/tracker_screenshot_20260716_110306.png)
+![Object tracker demo](screenshots/demo.png)
 
 ## Tracking Analysis
 
