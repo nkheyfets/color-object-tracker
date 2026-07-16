@@ -2,6 +2,14 @@
 
 A real-time computer vision application built with Python and OpenCV that detects and tracks a specified color (blue) object using a webcam.
 
+## Demo
+
+![Object tracker demo](screenshots/tracker_screenshot_20260716_110306.png)
+
+## Tracking Analysis
+
+![Tracked movement graph](screenshots/tracking_movement_graph.png)
+
 ## Features
 
 - Real-time webcam capture
@@ -43,5 +51,7 @@ color-object-tracker/
 ## Author
 
 Nicole Kheyfets
+
 Statistics & Data Science and Electrical & Computer Engineering with a focus in Computer Architecture and Embedded Systems 
+
 The University of Texas at Austin

@@ -13,3 +13,6 @@ __pycache__/
 
 # Screenshots created while testing
 tracker_screenshot_*.png
+
+# Temporary recorded data
+tracking_data.csv
